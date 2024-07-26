@@ -69,7 +69,7 @@ when shape `α >= 1` and rate `β > 0`. For other parameter values, the mode is 
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-mode@v0.2.2-deno/mod.js';
 ```
 
 #### mode( alpha, beta )
@@ -140,7 +140,7 @@ v = mode( 1.0, -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-mode@v0.2.2-deno/mod.js';
 
 var alpha;
 var beta;
