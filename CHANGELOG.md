@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-21)
+
+<section class="features">
+
+### Features
+
+-   [`8e65742`](https://github.com/stdlib-js/stdlib/commit/8e65742b7b96655c166c7fc11d2399d7ca2bad01) - add C implementation for `stats/base/dists/gamma/mode` [(#4123)](https://github.com/stdlib-js/stdlib/pull/4123)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3624](https://github.com/stdlib-js/stdlib/issues/3624)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8e65742`](https://github.com/stdlib-js/stdlib/commit/8e65742b7b96655c166c7fc11d2399d7ca2bad01) - **feat:** add C implementation for `stats/base/dists/gamma/mode` [(#4123)](https://github.com/stdlib-js/stdlib/pull/4123) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
