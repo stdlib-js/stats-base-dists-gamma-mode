@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`c7860af`](https://github.com/stdlib-js/stdlib/commit/c7860af1896d84360294b65f3e37982ca631c435) - **bench:** refactor random number generation in `stats/base/dists/gamma` [(#4929)](https://github.com/stdlib-js/stdlib/pull/4929) _(by Karan Anand)_
 -   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`8e65742`](https://github.com/stdlib-js/stdlib/commit/8e65742b7b96655c166c7fc11d2399d7ca2bad01) - **feat:** add C implementation for `stats/base/dists/gamma/mode` [(#4123)](https://github.com/stdlib-js/stdlib/pull/4123) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
